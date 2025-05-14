@@ -1,0 +1,3 @@
+[submodule "TestB"]
+	path = TestB
+	url = git@github.com:shift0965/TestB.git
